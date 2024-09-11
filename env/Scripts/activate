@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\david\Documents\ETL-P\env"
+VIRTUAL_ENV="C:\Users\Familia\OneDrive\Escritorio\Lucas\ETL-P-main\ETL-P-main\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
