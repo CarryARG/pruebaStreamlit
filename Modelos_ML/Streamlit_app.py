@@ -3,7 +3,7 @@ import joblib
 import pandas as pd
 
 # Cargar el modelo
-model = joblib.load('../Modelos_ML/modelo_rf.joblib')
+model = joblib.load('/home/adminuser/Modelos_ML/modelo_rf.joblib')
 
 # Título de la app
 st.title("Predicción del Tipo de Vehículo")
